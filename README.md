@@ -4,10 +4,13 @@
 - 💞️ I’m looking to collaborate on anything that could be interesting or where my experience could be helpful to a community in need 
 - 📫 How to reach me ...
 
-🐈🐈
+🐈🐈‍⬛🐕
 # Experience
 I've worked across a few industries with high standards for design, performance, and reliability. I think that this puts me in a unique position to assist in detailed designs and good engineering practice 
-## Controls Engineer - Particle Accelerator (Current, ~1 year)
+
+## Hardware Design Engineer - Consulting (Current)
+
+## Controls Engineer - Particle Accelerator (~2 year)
 - Work at a synchrotron facility, developing EPICS support for motion systems, detectors, and DAQ
 - Motion system tuning
 - Design PCBs and firmware for DAQ, and other purposes
